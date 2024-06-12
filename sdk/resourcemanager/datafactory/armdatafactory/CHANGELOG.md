@@ -1,5 +1,11 @@
 # Release History
 
+## 9.0.0 (2024-06-12)
+### Breaking Changes
+
+- Function `*FactoriesClient.NewListPager` has been removed
+
+
 ## 8.0.0 (2024-06-05)
 ### Breaking Changes
 
