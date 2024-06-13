@@ -1354,7 +1354,7 @@ func ExampleFleetsClient_Get() {
 
 // Generated from example definition: https://github.com/Azure/azure-rest-api-specs/blob/main/specification/azurefleet/resource-manager/Microsoft.AzureFleet/preview/2024-05-01-preview/examples/Fleets_CreateOrUpdate.json
 func ExampleFleetsClient_BeginCreateOrUpdate() {
-	cred, err := azidentity.NewDefaultAzureCredential(nil)
+	cred, err := azidentity.NewAzureCLICredential(nil)
 	if err != nil {
 		log.Fatalf("failed to obtain a credential: %v", err)
 	}
