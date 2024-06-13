@@ -8,6 +8,7 @@ require:
 - /mnt/vss/_work/1/s/azure-rest-api-specs/specification/azurefleet/resource-manager/readme.md
 - /mnt/vss/_work/1/s/azure-rest-api-specs/specification/azurefleet/resource-manager/readme.go.md
 license-header: MICROSOFT_MIT_NO_VERSION
-module-version: 0.1.0
+module-version: 0.5.0
+tag: package-preview-2024-05
 
 ```
